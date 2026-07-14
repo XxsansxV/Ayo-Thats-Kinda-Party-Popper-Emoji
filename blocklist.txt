@@ -606,6 +606,7 @@
 ||megadb.net^
 ||mongface.com^
 ||monochrome.tf^
+||moonlight-stream.org^
 ||moretransfer.com^
 ||mugseek.com^
 ||myexternalip.com^
@@ -698,6 +699,7 @@
 ||steamcommunity.com^
 ||steampowered.com^
 ||stock.adobe.com^
+||app.lizardbyte.dev/^
 ||surfshark.com^
 ||tbib.org^
 ||teamviewer.com^
