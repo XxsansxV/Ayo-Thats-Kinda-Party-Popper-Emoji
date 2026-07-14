@@ -1,0 +1,7 @@
+! Public VM allowlist
+! Expires: 1 day
+
+@@||softgaypaws.com^
+@@||geometrydash.com^
+@@||triton.qzz.io^
+@@e926.net^
