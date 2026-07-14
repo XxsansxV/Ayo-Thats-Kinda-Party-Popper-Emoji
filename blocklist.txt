@@ -1,6 +1,3 @@
-! Public VM blocklist
-! Expires: 1 day
-
 ||daytona.io^
 ||dwservice.net^
 ||remotedesktop.google.com^
