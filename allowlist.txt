@@ -86,11 +86,6 @@
 @@||www.msftncsi.com^
 @@||x1.c.lencr.org^
 @@||x2.c.lencr.org^
-@@||youtu.be^
-@@||youtube.com^
-@@||youtube.googleapis.com^
-@@||youtubei.googleapis.com^
-@@||ytimg.com^
 @@||billing.multilogin.com^
 @@||docs.aws.amazon.com^
 @@||docs.browserless.io^
